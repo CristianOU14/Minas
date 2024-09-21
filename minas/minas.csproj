@@ -1,0 +1,21 @@
+﻿<Project Sdk= "Microsoft.NET.Sdk">
+
+   <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWPF>false</UseWPF>  <!-- Cambia a true si usas WPF -->
+    <UseWindowsForms>true</UseWindowsForms>  <!-- Cambia a true si usas Windows Forms -->
+    <AssemblyTitle>minas</AssemblyTitle>
+    <AssemblyDescription></AssemblyDescription>
+    <AssemblyCompany></AssemblyCompany>
+    <AssemblyProduct>minas</AssemblyProduct>
+    <AssemblyCopyright>Copyright © 2024</AssemblyCopyright>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <AssemblyFileVersion>1.0.0.0</AssemblyFileVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+
+</Project>

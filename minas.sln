@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "minas", "minas\minas.csproj", "{18815377-4467-409F-A9C6-052BC804D363}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{7473E7E9-D255-4329-8133-B87CDF0833C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18815377-4467-409F-A9C6-052BC804D363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18815377-4467-409F-A9C6-052BC804D363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18815377-4467-409F-A9C6-052BC804D363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18815377-4467-409F-A9C6-052BC804D363}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91615051-3E6E-46A1-9358-6F0216A8C16E}
+	EndGlobalSection
+EndGlobal
