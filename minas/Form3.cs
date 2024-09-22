@@ -87,7 +87,7 @@ namespace minas
             }
 
             resultados.Add(new Resultados(Nombre, Modo, chrono));  // agregamos el resultado conseguido a la lista de resultados definida al inicio de este form
-            string ruta = "C:/Users/salas/source/repos/minas/minas/minas/minasBiblioteca_puntajes.xml";  
+            string ruta = "C:/Users/ocamp/Desktop/Minas/minas/minasBiblioteca_puntajes.xml";  
             //se define la ruta donde se va a guradar la lista (Debe cambiarla con la ruta que quede en su equipo a la hora de correr el archivo)
             XmlDocument documento = new XmlDocument(); //Se crea el archivo 
             if (File.Exists(ruta))  // se revisa si el archivo ya existe 

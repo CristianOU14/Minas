@@ -30,7 +30,7 @@ namespace minas
                     DataSet dataSet = new DataSet();
 
                     // Cargar datos desde el archivo XML
-                    dataSet.ReadXml("C:/Users/salas/source/repos/minas/minas/minas/minasBiblioteca_puntajes.xml");
+                    dataSet.ReadXml("C:/Users/ocamp/Desktop/Minas/minas/minasBiblioteca_puntajes.xml");
 
                     // Verificar si hay al menos una tabla en el DataSet
                     if (dataSet.Tables.Count > 0)
